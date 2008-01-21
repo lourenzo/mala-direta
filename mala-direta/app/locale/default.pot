@@ -1,0 +1,66 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  Revision: 6311 /app/views/layouts/default.ctp
+#  Revision: 6311 /app/webroot/test.php
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2008-01-21 06:40-0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /views/layouts/default.ctp:31
+msgid "Mala Direta:"
+msgstr ""
+
+#: /views/layouts/default.ctp:46
+msgid "Mala Direta"
+msgstr ""
+
+#: /views/layouts/default.ctp:73
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: /views/messages/add.ctp:17
+#: /views/messages/edit.ctp:17
+msgid "Name:"
+msgstr ""
+
+#: /views/messages/add.ctp:21
+#: /views/messages/edit.ctp:21
+msgid "Subject:"
+msgstr ""
+
+#: /views/messages/add.ctp:25
+#: /views/messages/edit.ctp:25
+msgid "HTML:"
+msgstr ""
+
+#: /views/messages/edit.ctp:12
+msgid "Messages"
+msgstr ""
+
+#: /views/messages/edit.ctp:12
+msgid "Edit"
+msgstr ""
+
+#: /views/users/login.ctp:7
+msgid "E-Mail:"
+msgstr ""
+
+#: /views/users/login.ctp:11
+msgid "Password:"
+msgstr ""
+
+#: /webroot/test.php:75
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
